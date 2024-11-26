@@ -13,3 +13,27 @@ Database Enumeration through brute-forcing credentials to access MySQL databases
 Service Scanning and Exploitation using Nmap scripts to identify and exploit additional services.
 The lab documents all the steps and commands used, making it an excellent resource for beginners looking to understand penetration testing workflows. 
 
+Objectives
+Understand how to set up a virtual lab for penetration testing.
+Practice various reconnaissance and scanning techniques.
+Exploit known vulnerabilities to gain access to systems.
+Conduct database enumeration to extract information from vulnerable servers.
+Document findings and create a reusable script for automation.
+Tools & Technologies Used
+Kali Linux (Attacker Machine)
+Metasploitable3 (Vulnerable Target)
+Windows Domain Controller (DC1) (For Active Directory testing)
+Nmap (Network Scanning)
+Metasploit Framework (Exploitation Framework)
+MySQL (Database Target)
+VirtualBox (Virtualization Platform)
+Project Commands Script
+The project commands have been consolidated into a single script file named penetration_lab_script.sh. This file includes all the necessary commands executed during the lab, covering:
+
+Information gathering using nmap
+Scanning for vulnerabilities using nmap and Metasploit
+Running exploits against identified vulnerabilities
+Performing database enumeration and extraction
+
+
+
