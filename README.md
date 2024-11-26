@@ -32,12 +32,25 @@ The Penetration Testing Lab project simulates various penetration testing scenar
 ## **Project Commands Script** 
 The project commands have been consolidated into a single script file named penetration_lab_script.sh. This file includes all the necessary commands executed during the lab, covering:
 
-- Information gathering using nmap
-- Scanning for vulnerabilities using nmap and Metasploit
+- Information gathering using `nmap` 
+- Scanning for vulnerabilities using `nmap` and Metasploit
 - Running exploits against identified vulnerabilities
 - Performing database enumeration and extraction
 
 ## **Screenshot**
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
