@@ -32,7 +32,7 @@ VirtualBox (Virtualization Platform)
 ## **Project Commands Script** 
 The project commands have been consolidated into a single script file named penetration_lab_script.sh. This file includes all the necessary commands executed during the lab, covering:
 
-##**Information gathering using nmap** 
+## **Information gathering using nmap** 
 Scanning for vulnerabilities using nmap and Metasploit
 Running exploits against identified vulnerabilities
 Performing database enumeration and extraction
