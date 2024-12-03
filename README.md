@@ -20,14 +20,19 @@ The Penetration Testing Lab project simulates various penetration testing scenar
 - Conduct database enumeration to extract information from vulnerable servers.
 - Document findings and create a reusable script for automation.
 
-## **Tools & Technologies Used** 
-- Kali Linux (Attacker Machine)
-- Metasploitable3 (Vulnerable Target)
-- Windows Domain Controller (DC1) (For Active Directory testing)
-- Nmap (Network Scanning)
-- Metasploit Framework (Exploitation Framework)
-- MySQL (Database Target)
-- VirtualBox (Virtualization Platform)
+## Tools & Technologies
+### Primary Tools
+- **Kali Linux**: The main tool for running penetration testing operations.
+- **Metasploitable3**: A vulnerable target machine to test and practice attacks.
+- **Windows DC1**: A Windows Domain Controller for testing domain-based attacks.
+
+### Auxiliary Tools
+- **Nmap**: For scanning networks and identifying active hosts.
+- **Metasploit Framework**: Used for conducting detailed exploitation.
+- **TheHarvester and Sublist3r**: For gathering information and enumeration.
+- **Nessus**: For vulnerability scanning and assessment.
+- **Google Dorking**: For finding specific information using custom search queries
+
 
 ## **Project Commands Script** 
 The project commands have been consolidated into a single script file named penetration_lab_script.sh. This file includes all the necessary commands executed during the lab, covering:
