@@ -43,15 +43,24 @@ The project commands have been consolidated into a single script file named pene
 - Performing database enumeration and extraction
 
 ## **Screenshot**
+- **TheHarvester Scan**: Executed a scan on the `apple.com` domain using theHarvester with Google as the data source.
 
 
 ![Screenshot of TheHarvester](the%20Harvester.png) 
 
 
+- **Successful Exploit Output**:
+  - *Description*: Demonstrates a successful execution of the MS17-010 exploit.
+
+
+![Exploit Successful Screenshot](exploit-successful.png)
 
 
 
 
+
+
+![Exploit EternalBlue Screenshot](exploit-eternalblue.png)
 
 
 
